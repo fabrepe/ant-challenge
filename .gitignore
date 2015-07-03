@@ -1,5 +1,7 @@
 # Created by https://www.gitignore.io
 
+game_logs/*
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
